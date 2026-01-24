@@ -1,16 +1,45 @@
-## Hi there 👋
+# Hi, I'm Henil Shrimali 
 
-<!--
-**HenilShrimali/HenilShrimali** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ Full Stack Developer | MERN Stack 
+ BCA Student | Building real-world projects  
+ Always learning, always building
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##  About Me
+
+I'm a passionate developer who loves building scalable web apps, experimenting with AI, and creating useful tools for developers.  
+
+I believe in **learning by building** and sharing knowledge with the community.
+
+---
+
+##  Tech Stack
+
+**Frontend:**  
+React.js, Next.js, Expo (React Native),HTML,CSS Tailwind CSS, Zustand  
+
+**Backend:**  
+Node.js, Express.js, MongoDB, REST APIs 
+
+**Tools & Others:**  
+Git & GitHub, Postman, Cloudinary, Firebase, Docker (basic)  
+
+**Languages:**  
+JavaScript, TypeScript, Python, Java (core), SQL ,Postgresql
+
+---
+
+##  GitHub Stats
+
+![Henil's GitHub stats](https://github-readme-stats.vercel.app/api?username=henildev&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=henildev&layout=compact&theme=tokyonight)
+
+---
+
+##  Connect With Me
+
+🌍 Portfolio: https://henildev.vercel.app/  
+💼 LinkedIn: https://www.linkedin.com/in/henil-shrimali-a770a92b9/  
+
