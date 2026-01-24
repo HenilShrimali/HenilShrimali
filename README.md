@@ -32,9 +32,9 @@ JavaScript, TypeScript, Python, Java (core), SQL ,Postgresql
 
 ##  GitHub Stats
 
-![Henil's GitHub stats](https://github-readme-stats.vercel.app/api?username=henildev&show_icons=true&theme=tokyonight)
+![Henil's GitHub stats](https://github-readme-stats.vercel.app/api?username=HenilShrimali&show_icons=true&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=henildev&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HenilShrimali&layout=compact&theme=tokyonight)
 
 ---
 
