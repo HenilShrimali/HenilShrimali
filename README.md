@@ -2,7 +2,7 @@
 
 # Hi there, I'm Henil Shrimali 👋
 
-**Full Stack Developer · BCA Student · Builder**
+**Full Stack Developer · Learner · Builder**
 
 ```js
 const henil = {
@@ -19,7 +19,7 @@ const henil = {
 ## 🧑‍💻 About Me
 
 I'm a passionate **MERN Stack developer** who loves turning ideas into scalable web apps.
-Currently pursuing my BCA while building projects that solve real problems — from clean **REST APIs** to **AI-integrated tools**.
+ BCA graduated, building projects that solve real problems — from clean **REST APIs** to **AI-integrated tools**.
 
 > I believe in **learning by building** and sharing knowledge with the community.
 
